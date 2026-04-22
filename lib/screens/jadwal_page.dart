@@ -16,7 +16,7 @@ class _JadwalPageState extends State<JadwalPage> {
       judul: 'Pemrograman Mobile',
       hari: 'Senin',
       jam: '08:00 - 10:00',
-      lokasi: 'Lab Komputer',
+      lokasi: 'Lab Komputer 2',
       keterangan: 'Belajar Flutter dasar',
     ),
     JadwalModel(
